@@ -4,3 +4,28 @@ The objective of this Power BI project is to create an interactive and dynamic s
 
 ## DataSet Used
 <a href="https://docs.google.com/spreadsheets/d/1ez12gnrcbQeu76Q1ZeaPCJNBy2wWO10H/edit?usp=drivesdk&ouid=105354283441221946385&rtpof=true&sd=true">Sales Data</a>
+
+## Key Performance Indicators (KPIs):
+Total Revenue – Displays the overall revenue generated.
+Average Order Value (AOV) – Revenue per order.
+Total Pizzas Sold – Shows the total number of pizzas sold.
+Total Orders – Represents the number of orders placed.
+Average Pizzas per Order – Measures how many pizzas are sold per order.
+
+## Charts & Visualizations:
+Daily Trends for Total Orders – 📊 Bar Chart (Shows daily order trends).
+Monthly Trend for Total Orders – 📈 Line Chart (Displays order trends over months).
+Sales by Pizza Category – 🥧 Pie Chart (Breakdown of sales by pizza type).
+Sales by Pizza Size – 🍕 Pie Chart (Percentage of sales by pizza size).
+Total Pizzas Sold by Category – 🔽 Funnel Chart (Pizza category sales distribution).
+Top & Bottom 5 Performers – 📊 Tables/Charts
+Best & worst-performing pizzas by Revenue, Quantity Sold, and Total Orders.
+
+## Interactive Features:
+Navigator Button: Click to switch between dashboards.
+Filters & Slicers: Allows users to filter data dynamically.
+
+## Tech Stack Used
+Power BI – For data visualization & interactive dashboard creation.
+SQL Server – Used for querying and retrieving structured data.
+
