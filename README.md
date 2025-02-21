@@ -7,6 +7,7 @@ The objective of this Power BI project is to create an interactive and dynamic s
 
 ## Key Performance Indicators (KPIs):
 Total Revenue – Displays the overall revenue generated.
+<br>
 Average Order Value (AOV) – Revenue per order.
 Total Pizzas Sold – Shows the total number of pizzas sold.
 Total Orders – Represents the number of orders placed.
