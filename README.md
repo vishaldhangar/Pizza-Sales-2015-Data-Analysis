@@ -41,6 +41,12 @@ Power BI – For data visualization & interactive dashboard creation.
 <br>
 SQL Server – Used for querying and retrieving structured data.
 
+## DashBoard
+![D1](https://github.com/user-attachments/assets/8c8108bf-aedd-462e-9fc4-ba5c7373dcff)
+![D2](https://github.com/user-attachments/assets/83eadc0b-1cdd-43a1-85c5-48ffd2267a8b)
+
+
+
 
 
 
